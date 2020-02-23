@@ -20,6 +20,7 @@ I got the idea for this project from my mother, who was manually creating a list
 
 ### Technologies
 - Java
+- Angular
 - MySQL
 - Hibernate
 - Spring Boot
