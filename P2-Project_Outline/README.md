@@ -7,16 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Researchers studying food waste have found that one-third of food produced globally goes to a landfill uneaten. Sometimes it is hard to track what's in your refrigerator and what food is about to go bad. This app aims to allow users to reduce food waste by tracking expiration dates, allowing users to pick out recipes that will use these ingredients, and add needed ingredients from that recipe to a shopping list.
+My girlfriend is an occupational therapy assistant and has told me that she doesn't have an easy way to catalogue or select exercises for patients.
 
-I got the idea for this project from my mother, who was manually creating a list of her soon-to-expire foods, going through each recipe in her cookbook, and creating the shopping list herself. I thought I could help by automating some of the process for her.
+I wanted to help her by creating a site where she could create new exercises and patients, browse through exercises by area of the body being used (for example: hand or shoulder), and assign exercises to patients, allowing her to track each patient's progress over time.
 
 ### Features
-- User Login: Users can create accounts and log in. Each user will have a profile page.
-- Foods About to Expire: Users can add ingredients that are about to expire as well as the expiration date and sort by foods that will go bad soonest.
-- Recipe Search: Users can then use that ingredients list to search Google for recipes that use that ingredient.
-- Recipe Database: As users find recipes they like, they can add them to their profile.
-- Create Grocery List: Users can then use their chosen recipes to create a grocery list. Users can add and delete extra items as needed based on what they already own.
+- User Login: OTs and PTs can create their own accounts and login to see their profile page.
+- Create/Update Patient: Users can create new patients, track which exercises they perform and log notes for each appointment.
+- Add Exercises: Users can add exercises to the database
+- Search Exercises: Users can search the database for exercises that utilize a particular muscle group or area of the body.
 
 ### Technologies
 - Java
@@ -28,7 +27,6 @@ I got the idea for this project from my mother, who was manually creating a list
 
 ### What I'll Have to Learn
 - How to generate a project using JHipster.
-- How to integrate a free API for an ingredients database.
 - How to deploy the project and with what technology.
 
 ### Project Tracker

@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Wireframes created on Moqups.com](https://app.moqups.com/1jDGEMZpI5/view/page/a4f1eee9c)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/zUjtO9Uy/capstone-project)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Github Project](https://github.com/exclamationkate/therapy-tracker)
